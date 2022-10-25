@@ -1,8 +1,8 @@
-# Accessible Marketing Webpage Code Refactoring
+# Challenge1 Accessible Codebase
 
 ## Description 
 
-This code refactoring is a project commissioned by a marketing client to improve the accessibility of their webpage. I refactored the starter code and made the CSS style sheet more efficient by consolidating the CSS selectors and properties, and organising them to follow the semantic structure of the HTML elements.
+This repo is a refactoring project commissioned by a marketing client to improve the accessibility of their webpage. I refactored the webpage code and made the CSS style sheet more efficient by consolidating the CSS selectors and properties, and organising them to follow the semantic structure of the HTML elements.
 
 
 ## Challenges
@@ -21,8 +21,8 @@ Some challenges I faced were:
 
 If you have any questions, please contact me at: 
  
-  Github Profile: [ ](https://github.com/inezling)  
+  Github Profile: [inezling](https://github.com/inezling)  
 
   Email:  inezling@hotmail.com
 
-  LinkedIn: [ ](https://www.linkedin.com/in/inezling/)
+  LinkedIn: [inezling](https://www.linkedin.com/in/inezling/)
